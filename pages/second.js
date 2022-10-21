@@ -33,7 +33,7 @@ export default function Second() {
           <h1 className="text-4xl text-neutral-800 dark:text-white font-semibold tracking-wide mb-3">
             {t('h1')}
           </h1>
-          <p className="text-base text-neutral-800 dark:text-white font-medium mb-4">
+          <p className="text-base text-neutral-600 dark:text-gray-200 mb-4">
             {t('p')}
           </p>
 
