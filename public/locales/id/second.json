@@ -1,0 +1,6 @@
+{
+  "h1": "Halaman Kedua",
+  "p": "Anda dapat menggunakan React untuk membangun UI Anda, kemudian secara bertahap mengadopsi fitur Next.js untuk menyelesaikan persyaratan aplikasi umum seperti perutean, pengambilan data, integrasi - semuanya sambil meningkatkan pengalaman pengembang dan pengguna akhir. Baik Anda seorang pengembang individu atau bagian dari tim yang lebih besar, Anda dapat memanfaatkan React dan Next.js untuk membangun aplikasi web yang sepenuhnya interaktif, sangat dinamis, dan berkinerja.",
+  "back-to-home": "Kembali ke Home",
+  "change-locale": "Ganti Bahasa"
+}

@@ -1,0 +1,6 @@
+{
+  "h1": "Second Page",
+  "p": "You can use React to build your UI, then incrementally adopt Next.js features to solve common application requirements such as routing, data fetching, integrations - all while improving the developer and end-user experience. Whether you’re an individual developer or part of a larger team, you can leverage React and Next.js to build fully interactive, highly dynamic, and performant web applications.",
+  "back-to-home": "Back to Home",
+  "change-locale": "Ganti Bahasa"
+}
